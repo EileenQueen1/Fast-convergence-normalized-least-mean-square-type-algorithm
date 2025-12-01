@@ -10,6 +10,6 @@ tightfig.m：用于精简fig内容
 ---
 
 ## 参考文献
-A fast convergence normalized least‐mean‐square type algorithm for adaptive filtering
+Benallal A., and Arezki M. (2014), A fast convergence normalized least-mean-square type algorithm for adaptive filtering, Int. J. Adapt. Control Signal Process., 28, pages 1073–1080
 
 
